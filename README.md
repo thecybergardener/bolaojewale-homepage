@@ -64,7 +64,7 @@ remember to replace the `site` and other properties with your data in `astro.con
 
 If you would like to use Netlify to deploy, you can visit Gianmarco's GitHub
 
-[![CloudFlare Deploy button](https://getpublii.com/docs/media/posts/54/cloud-flare-pages.png)]
+[CloudFlare Deploy button](https://getpublii.com/docs/media/posts/54/cloud-flare-pages.png)
 
 ## Authors ❤️
 
