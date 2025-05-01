@@ -60,15 +60,11 @@ $ npm run dev
 
 remember to replace the `site` and other properties with your data in `astro.config.mjs`
 
-# Deploy on Netlify 🚀
+# Modified to Deploy on CloudFlare Pages
 
-Deploying your website on Netlify it's optional but I reccomand it in order to deploy it faster and easly.
+If you would like to use Netlify to deploy, you can visit Gianmarco's GitHub
 
-You just need to fork this repo and linking it to your Netlify account.
-
-or
-
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ladvace/astro-bento-portfolio)
+[![CloudFlare Deploy button](https://getpublii.com/docs/media/posts/54/cloud-flare-pages.png)]
 
 ## Authors ❤️
 
